@@ -9,4 +9,4 @@ Here is a list of all the labs in this repository, with their complexities analy
 | 3 | Insertion Sort | [03_Insertion_sort.ipynb](03_Insertion_sort.ipynb) | O(n²) | O(1) |
 | 4 | Counting Sort | [04_Counting_sort.ipynb](04_Counting_sort.ipynb) | O(n+k) | O(k) |
 | 5 | Merge Sort | [05_mergse_sort.ipynb](05_mergse_sort.ipynb) | O(n log n) | O(n) |
-| 6 | Binary Search | [06_binary_search.ipynb](06_binary_search.ipynb) | O(log n) | O(1) |
+| 6 | Binary Search | [06_binary_search.ipynb](06_binary_search.ipynb) | O(log n) | O(log n) |
